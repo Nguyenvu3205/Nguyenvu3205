@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nguyenvu3205
-- 👀 I’m interested in javacrip and python
+- 👀 I’m interested in  python
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
